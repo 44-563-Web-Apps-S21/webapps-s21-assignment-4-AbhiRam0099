@@ -1,8 +1,15 @@
 
-#archidamus{
+#archidamus:hover{
 font-size:large;
   color: rgb(255, 80, 95);
- 
+  text-shadow: 4px 4px 8px #FF0000;
+}
+
+
+#camillo:hover{
+  font-size: large;
+  color: rgb(80, 235, 255);
+  text-shadow: 4px 4px 8px #FF0000;
 }
 p{
   color: black;
@@ -10,11 +17,6 @@ p{
   margin-right: 50%;
 }
 
-#camillo{
-  font-size: large;
-  color: rgb(80, 235, 255);
-  
-}
 h3:hover{
     font-size: larger;
     color: black;
