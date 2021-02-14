@@ -1,0 +1,40 @@
+
+#archidamus{
+font-size:large;
+  color: rgb(255, 80, 95);
+ 
+}
+p{
+  color: black;
+  font-size: medium;
+  margin-right: 50%;
+}
+
+#camillo{
+  font-size: large;
+  color: rgb(80, 235, 255);
+  
+}
+h3:hover{
+    font-size: larger;
+    color: black;
+    background-color:rgb(147, 187, 255);
+}
+
+table{
+  text-align: center;
+  border: 1.5px solid rgb(12, 1, 1);
+  color: rgb(5, 49, 36);
+  margin: 20px;
+  
+}
+
+thead {
+ 
+  background-color:rgb(219, 230, 124);
+}
+thead,tr,td{
+  border: 1px solid black;
+  padding:5px;
+}
+
